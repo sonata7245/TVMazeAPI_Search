@@ -1,0 +1,9 @@
+#results {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div {
+    padding: 1em;
+    margin: 1em;
+}
